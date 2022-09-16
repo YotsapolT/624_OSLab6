@@ -1,3 +1,5 @@
+./program 4
+
 from parent (m)sum = 3		แม่เสร็จก่อนลูกเลยจบโปรแกรมเลย
 sum = -7
 
